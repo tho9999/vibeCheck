@@ -2,16 +2,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-npm run dev
-
+First, create your own api spotify account [here](https://developer.spotify.com/documentation/web-api)
+Add a .env file with the clinet secret and client id
+Install npm
+Run: npm install
+Run: npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Technologies
 Tailwind CSS
 Next.js
 Spotify API
-Firebase - if we had time
+
+![Example photo 1](./public/images/vibecheck1.jpg)
+![Example photo 2](./public/images/vibecheck2.jpg)
+
+
 
 
