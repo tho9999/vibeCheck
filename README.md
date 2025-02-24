@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, create your own api spotify account [here](https://developer.spotify.com/documentation/web-api)
+First, create your own api spotify account [here](https://developer.spotify.com/documentation/web-api) 
 Add a .env file with the clinet secret and client id
 Install npm
 Run: npm install
